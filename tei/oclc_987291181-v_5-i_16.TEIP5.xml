@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns="http://www.tei-c.org/ns/1.0"
+         xml:id="oclc_987291181-v_5-i_16"
+         prev="oclc_987291181-v_5-i_15.TEIP5.xml"
+         next="oclc_987291181-v_5-i_17.TEIP5.xml">
+   <tei:teiHeader xml:lang="en">
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <title>al-Jinān #16, 15 August 1874</title>
+            <title type="sub">TEI edition</title>
+            <respStmt xml:lang="en">
+               <resp>TEI edition</resp>
+               <persName xml:id="pers_TG">Till Grallert</persName>
+            </respStmt>
+         </tei:titleStmt>
+         <tei:publicationStmt>
+            <authority>
+               <persName>Till Grallert</persName>
+            </authority>
+            <pubPlace>Beirut</pubPlace>
+            <date when="2018">2018</date>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            </availability>
+            <idno type="url">https://github.com/openarabicpe/journal_al-jinan/blob/master/xml/oclc_987291181-v_5-i_16.TEIP5.xml</idno>
+         </tei:publicationStmt>
+         <tei:sourceDesc>
+            <biblStruct xml:lang="ar-Latn-x-ijmes">
+                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                        <title level="j" xml:lang="ar">الجنان</title>
+                        <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
+                        <!-- Gale edition -->
+                        <idno type="oclc" xml:lang="en">987291181</idno>
+                        <!-- HathiTrust -->
+                        <idno type="oclc" xml:lang="en">672061050</idno>
+                        <!-- Google, vol. 9 -->
+                        <idno type="oclc" xml:lang="en">656797477</idno>
+                        <!-- Harrassowitz: Microfiche -->
+                        <idno type="oclc" xml:lang="en">7565762</idno>
+                        <idno type="oclc" xml:lang="en">792755530</idno>
+                        <idno type="oclc" xml:lang="en">792755914</idno>
+                        <idno type="oclc" xml:lang="en">1681102</idno>
+                        <idno type="oclc" xml:lang="en">22757559</idno>
+                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749391</idno>
+                        <editor ref="viaf:79119650" xml:lang="en">
+                            <persName xml:lang="ar">
+                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
+                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                            </persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">
+                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
+                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                            </persName>
+                        </editor>
+                        <editor ref="viaf:21245607" xml:lang="en">
+                            <persName xml:lang="ar">
+                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
+                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                            </persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">
+                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
+                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                            </persName>
+                        </editor>
+                        <imprint xml:lang="en">
+                            <publisher xml:lang="en">
+                                <orgName xml:lang="ar">مطبعة المعارف</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa al-Maʿārif</orgName>
+                            </publisher>
+                            <pubPlace xml:lang="en">
+                                <placeName xml:lang="ar">بيروت</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+                                <placeName xml:lang="en">Beirut</placeName>
+                                <placeName xml:lang="fr">Beyrouth</placeName>
+                            </pubPlace>
+                            <date change="#d2e53"
+                           datingMethod="#cal_gregorian"
+                           type="official"
+                           when="1874-08-15"
+                           xml:lang="en">15 Aug 1874</date>
+                            
+                            
+                            
+                        </imprint>
+                    <biblScope change="#d2e53" from="5" to="5" unit="volume" xml:lang="en">5</biblScope>
+                  <biblScope change="#d2e53"
+                             from="16"
+                             to="16"
+                             unit="issue"
+                             xml:lang="en">16</biblScope>
+                  <biblScope change="#d2e53"
+                             from="541"
+                             to="576"
+                             unit="page"
+                             xml:lang="en">541-576</biblScope>
+               </monogr>
+                </biblStruct>
+         </tei:sourceDesc>
+      </tei:fileDesc>
+      <tei:revisionDesc>
+         <tei:change when="2018-11-03">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/journal_al-jinan/metadata/al-jinan.TEIP5.xml.</tei:change>
+      </tei:revisionDesc>
+   </tei:teiHeader>
+   <tei:facsimile>
+      <tei:surface xml:id="facs_541"/>
+      <tei:surface xml:id="facs_542"/>
+      <tei:surface xml:id="facs_543"/>
+      <tei:surface xml:id="facs_544"/>
+      <tei:surface xml:id="facs_545"/>
+      <tei:surface xml:id="facs_546"/>
+      <tei:surface xml:id="facs_547"/>
+      <tei:surface xml:id="facs_548"/>
+      <tei:surface xml:id="facs_549"/>
+      <tei:surface xml:id="facs_550"/>
+      <tei:surface xml:id="facs_551"/>
+      <tei:surface xml:id="facs_552"/>
+      <tei:surface xml:id="facs_553"/>
+      <tei:surface xml:id="facs_554"/>
+      <tei:surface xml:id="facs_555"/>
+      <tei:surface xml:id="facs_556"/>
+      <tei:surface xml:id="facs_557"/>
+      <tei:surface xml:id="facs_558"/>
+      <tei:surface xml:id="facs_559"/>
+      <tei:surface xml:id="facs_560"/>
+      <tei:surface xml:id="facs_561"/>
+      <tei:surface xml:id="facs_562"/>
+      <tei:surface xml:id="facs_563"/>
+      <tei:surface xml:id="facs_564"/>
+      <tei:surface xml:id="facs_565"/>
+      <tei:surface xml:id="facs_566"/>
+      <tei:surface xml:id="facs_567"/>
+      <tei:surface xml:id="facs_568"/>
+      <tei:surface xml:id="facs_569"/>
+      <tei:surface xml:id="facs_570"/>
+      <tei:surface xml:id="facs_571"/>
+      <tei:surface xml:id="facs_572"/>
+      <tei:surface xml:id="facs_573"/>
+      <tei:surface xml:id="facs_574"/>
+      <tei:surface xml:id="facs_575"/>
+      <tei:surface xml:id="facs_576"/>
+   </tei:facsimile>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="541" facs="#facs_541"/>
+      <tei:body>
+         <tei:div type="item">
+            <tei:pb ed="print" n="542" facs="#facs_542"/>
+            <tei:pb ed="print" n="543" facs="#facs_543"/>
+            <tei:pb ed="print" n="544" facs="#facs_544"/>
+            <tei:pb ed="print" n="545" facs="#facs_545"/>
+            <tei:pb ed="print" n="546" facs="#facs_546"/>
+            <tei:pb ed="print" n="547" facs="#facs_547"/>
+            <tei:pb ed="print" n="548" facs="#facs_548"/>
+            <tei:pb ed="print" n="549" facs="#facs_549"/>
+            <tei:pb ed="print" n="550" facs="#facs_550"/>
+            <tei:pb ed="print" n="551" facs="#facs_551"/>
+            <tei:pb ed="print" n="552" facs="#facs_552"/>
+            <tei:pb ed="print" n="553" facs="#facs_553"/>
+            <tei:pb ed="print" n="554" facs="#facs_554"/>
+            <tei:pb ed="print" n="555" facs="#facs_555"/>
+            <tei:pb ed="print" n="556" facs="#facs_556"/>
+            <tei:pb ed="print" n="557" facs="#facs_557"/>
+            <tei:pb ed="print" n="558" facs="#facs_558"/>
+            <tei:pb ed="print" n="559" facs="#facs_559"/>
+            <tei:pb ed="print" n="560" facs="#facs_560"/>
+            <tei:pb ed="print" n="561" facs="#facs_561"/>
+            <tei:pb ed="print" n="562" facs="#facs_562"/>
+            <tei:pb ed="print" n="563" facs="#facs_563"/>
+            <tei:pb ed="print" n="564" facs="#facs_564"/>
+            <tei:pb ed="print" n="565" facs="#facs_565"/>
+            <tei:pb ed="print" n="566" facs="#facs_566"/>
+            <tei:pb ed="print" n="567" facs="#facs_567"/>
+            <tei:pb ed="print" n="568" facs="#facs_568"/>
+            <tei:pb ed="print" n="569" facs="#facs_569"/>
+            <tei:pb ed="print" n="570" facs="#facs_570"/>
+            <tei:pb ed="print" n="571" facs="#facs_571"/>
+            <tei:pb ed="print" n="572" facs="#facs_572"/>
+            <tei:pb ed="print" n="573" facs="#facs_573"/>
+            <tei:pb ed="print" n="574" facs="#facs_574"/>
+            <tei:pb ed="print" n="575" facs="#facs_575"/>
+            <tei:pb ed="print" n="576" facs="#facs_576"/>
+         </tei:div>
+      </tei:body>
+   </tei:text>
+</tei:TEI>
