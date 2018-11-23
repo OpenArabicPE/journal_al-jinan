@@ -91,6 +91,7 @@
          </tei:sourceDesc>
       </tei:fileDesc>
       <tei:revisionDesc>
+<change when="2018-11-23" who="#pers_TG" xml:lang="en">Added structural mark-up of articles and bylines based on the facsimile</change>
          <tei:change when="2018-11-03">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/journal_al-jinan/metadata/al-jinan.TEIP5.xml.</tei:change>
       </tei:revisionDesc>
    </tei:teiHeader>
