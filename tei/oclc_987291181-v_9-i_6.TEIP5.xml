@@ -136,42 +136,100 @@
       <tei:pb ed="print" n="181" facs="#facs_181"/>
       <tei:body>
          <tei:div type="item">
-            <tei:pb ed="print" n="182" facs="#facs_182"/>
-            <tei:pb ed="print" n="183" facs="#facs_183"/>
-            <tei:pb ed="print" n="184" facs="#facs_184"/>
-            <tei:pb ed="print" n="185" facs="#facs_185"/>
-            <tei:pb ed="print" n="186" facs="#facs_186"/>
-            <tei:pb ed="print" n="187" facs="#facs_187"/>
-            <tei:pb ed="print" n="188" facs="#facs_188"/>
-            <tei:pb ed="print" n="189" facs="#facs_189"/>
-            <tei:pb ed="print" n="190" facs="#facs_190"/>
-            <tei:pb ed="print" n="191" facs="#facs_191"/>
-            <tei:pb ed="print" n="192" facs="#facs_192"/>
-            <tei:pb ed="print" n="193" facs="#facs_193"/>
-            <tei:pb ed="print" n="194" facs="#facs_194"/>
-            <tei:pb ed="print" n="195" facs="#facs_195"/>
-            <tei:pb ed="print" n="196" facs="#facs_196"/>
-            <tei:pb ed="print" n="197" facs="#facs_197"/>
-            <tei:pb ed="print" n="198" facs="#facs_198"/>
-            <tei:pb ed="print" n="199" facs="#facs_199"/>
-            <tei:pb ed="print" n="200" facs="#facs_200"/>
-            <tei:pb ed="print" n="201" facs="#facs_201"/>
-            <tei:pb ed="print" n="202" facs="#facs_202"/>
-            <tei:pb ed="print" n="203" facs="#facs_203"/>
-            <tei:pb ed="print" n="204" facs="#facs_204"/>
-            <tei:pb ed="print" n="205" facs="#facs_205"/>
-            <tei:pb ed="print" n="206" facs="#facs_206"/>
-            <tei:pb ed="print" n="207" facs="#facs_207"/>
-            <tei:pb ed="print" n="208" facs="#facs_208"/>
-            <tei:pb ed="print" n="209" facs="#facs_209"/>
-            <tei:pb ed="print" n="210" facs="#facs_210"/>
-            <tei:pb ed="print" n="211" facs="#facs_211"/>
-            <tei:pb ed="print" n="212" facs="#facs_212"/>
-            <tei:pb ed="print" n="213" facs="#facs_213"/>
-            <tei:pb ed="print" n="214" facs="#facs_214"/>
-            <tei:pb ed="print" n="215" facs="#facs_215"/>
-            <tei:pb ed="print" n="216" facs="#facs_216"/>
-         </tei:div>
+<head>جملة سياسية</head>
+<byline>من قلم <persName>سليم افندي البستاني</persName></byline><tei:pb ed="print" facs="#facs_182" n="182"/>
+</tei:div>
+<tei:div type="section">
+<head>رسالات برقية</head><tei:pb ed="print" facs="#facs_183" n="183"/><tei:pb ed="print" facs="#facs_184" n="184"/>
+</tei:div>
+<tei:div type="item">
+<head>الكونفرنس والكونكري</head>
+</tei:div>
+<tei:div type="item">
+<head>النمسا والمؤتمر</head>
+</tei:div>
+<tei:div type="item">
+<head>روسيا والبلغار</head><tei:pb ed="print" facs="#facs_185" n="185"/>
+</tei:div>
+<tei:div type="item">
+<head>روسيا</head><tei:pb ed="print" facs="#facs_186" n="186"/>
+</tei:div>
+<tei:div type="item">
+<head>النمسا والروسيا</head><tei:pb ed="print" facs="#facs_187" n="187"/><tei:pb ed="print" facs="#facs_188" n="188"/><tei:pb ed="print" facs="#facs_189" n="189"/>
+</tei:div>
+<tei:div type="item">
+<head>النمسا</head>
+</tei:div>
+<tei:div type="item">
+<head>رومانيا</head><tei:pb ed="print" facs="#facs_190" n="190"/>
+</tei:div>
+<tei:div type="item">
+<head>المؤتمر</head>
+</tei:div>
+<tei:div type="item">
+<head>المخابرات الصلحية</head><tei:pb ed="print" facs="#facs_191" n="191"/>
+</tei:div>
+<tei:div type="item">
+<head>الصرع</head>
+<byline>من قلم <persName>مختار بك المؤيد</persName></byline><tei:pb ed="print" facs="#facs_192" n="192"/><tei:pb ed="print" facs="#facs_193" n="193"/>
+</tei:div>
+<tei:div type="item">
+<head>بطرس الكبير</head><tei:pb ed="print" facs="#facs_194" n="194"/><tei:pb ed="print" facs="#facs_195" n="195"/><tei:pb ed="print" facs="#facs_196" n="196"/><tei:pb ed="print" facs="#facs_197" n="197"/>
+</tei:div>
+<tei:div type="item">
+<head>ترويق الزيت</head>
+</tei:div>
+<tei:div type="item">
+<head>غذاء الطحين</head>
+</tei:div>
+<tei:div type="item">
+<head>مصباح غاز عديم الخطر</head>
+</tei:div><tei:pb ed="print" facs="#facs_198" n="198"/>
+<tei:div type="item">
+<head>الليمون</head>
+</tei:div>
+<tei:div type="item">
+<head>الحشرات الموذية</head>
+</tei:div>
+<tei:div type="item">
+<head>النبتات الطفيلية</head><tei:pb ed="print" facs="#facs_199" n="199"/>
+</tei:div>
+<tei:div type="item">
+<head>التقدم في السن</head>
+</tei:div>
+<tei:div type="item">
+<head>الورق</head>
+</tei:div>
+<tei:div type="item">
+<head>الزهر</head>
+</tei:div>
+<tei:div type="item">
+<head>الثمر</head><tei:pb ed="print" facs="#facs_200" n="200"/>
+</tei:div>
+<tei:div type="item">
+<head>المادة وخاصياتها</head>
+<byline>من قلم <persName>سليم افندي البستاني</persName></byline><tei:pb ed="print" facs="#facs_201" n="201"/><tei:pb ed="print" facs="#facs_202" n="202"/>
+</tei:div>
+<tei:div type="item">
+<head>تاريخ فرنسا</head><tei:pb ed="print" facs="#facs_203" n="203"/><tei:pb ed="print" facs="#facs_204" n="204"/><tei:pb ed="print" facs="#facs_205" n="205"/><tei:pb ed="print" facs="#facs_206" n="206"/>
+</tei:div>
+<tei:div type="item">
+<head>سلمى</head>
+<byline>من قلم <persName>سليم افندي البستاني</persName></byline><tei:pb ed="print" facs="#facs_207" n="207"/><tei:pb ed="print" facs="#facs_208" n="208"/><tei:pb ed="print" facs="#facs_209" n="209"/><tei:pb ed="print" facs="#facs_210" n="210"/><tei:pb ed="print" facs="#facs_211" n="211"/><tei:pb ed="print" facs="#facs_212" n="212"/>
+</tei:div>
+<tei:div type="item">
+<head>ملح</head>
+<byline>من قلم <persName>جرجس افندي مخائيل نحاس</persName></byline><tei:pb ed="print" facs="#facs_213" n="213"/>
+</tei:div>
+<tei:div type="item">
+<head>دائرة المعارف</head><tei:pb ed="print" facs="#facs_214" n="214"/>
+</tei:div>
+<tei:div type="item">
+<head>اعلان</head>
+</tei:div>
+<tei:div type="item">
+<head>فهرس</head><tei:pb ed="print" facs="#facs_215" n="215"/><tei:pb ed="print" facs="#facs_216" n="216"/>
+</tei:div>
       </tei:body>
    </tei:text>
 </tei:TEI>
