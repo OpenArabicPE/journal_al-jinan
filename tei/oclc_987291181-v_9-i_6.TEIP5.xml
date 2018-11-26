@@ -128,10 +128,6 @@
       <tei:surface xml:id="facs_210"/>
       <tei:surface xml:id="facs_211"/>
       <tei:surface xml:id="facs_212"/>
-      <tei:surface xml:id="facs_213"/>
-      <tei:surface xml:id="facs_214"/>
-      <tei:surface xml:id="facs_215"/>
-      <tei:surface xml:id="facs_216"/>
    </tei:facsimile>
    <tei:text xml:lang="ar">
       <tei:pb ed="print" n="181" facs="#facs_181"/>
@@ -220,16 +216,16 @@
 </tei:div>
 <tei:div type="item">
 <head>ملح</head>
-<byline>من قلم <persName>جرجس افندي مخائيل نحاس</persName></byline><tei:pb ed="print" facs="#facs_213" n="213"/>
+<byline>من قلم <persName>جرجس افندي مخائيل نحاس</persName></byline><tei:pb ed="print" n="ج"/>
 </tei:div>
 <tei:div type="item">
-<head>دائرة المعارف</head><tei:pb ed="print" facs="#facs_214" n="214"/>
+<head>دائرة المعارف</head><tei:pb ed="print" n="د"/>
 </tei:div>
 <tei:div type="item">
 <head>اعلان</head>
 </tei:div>
 <tei:div type="item">
-<head>فهرس</head><tei:pb ed="print" facs="#facs_215" n="215"/><tei:pb ed="print" facs="#facs_216" n="216"/>
+<head>فهرس</head>
 </tei:div>
       </tei:body>
    </tei:text>
