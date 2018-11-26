@@ -30,39 +30,39 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <tei:change when="2018-11-26" who="#pers_TG">Corrected 
-                <tei:gi>biblStruct</tei:gi>
+            <change when="2018-11-26" who="#pers_TG">Corrected 
+                <gi>biblStruct</gi>
                 by moving all 
-                <tei:gi>biblScope</tei:gi>
+                <gi>biblScope</gi>
                 from 
-                <tei:gi>imprint</tei:gi>
+                <gi>imprint</gi>
                 to 
-                <tei:gi>monogr</tei:gi>
+                <gi>monogr</gi>
                 and by converting all 
-                <tei:att>n</tei:att>
+                <att>n</att>
                 to 
-                <tei:att>from</tei:att>
+                <att>from</att>
                 and 
-                <tei:att>to</tei:att>
-                with identical values.</tei:change>
-            <tei:change when="2018-11-03" who="#pers_TG">Corrected 
-                <tei:gi>biblStruct</tei:gi>
+                <att>to</att>
+                with identical values.</change>
+            <change when="2018-11-03" who="#pers_TG">Corrected 
+                <gi>biblStruct</gi>
                 by moving all 
-                <tei:gi>biblScope</tei:gi>
+                <gi>biblScope</gi>
                 from 
-                <tei:gi>imprint</tei:gi>
+                <gi>imprint</gi>
                 to 
-                <tei:gi>monogr</tei:gi>
+                <gi>monogr</gi>
                 and by converting all 
-                <tei:att>n</tei:att>
+                <att>n</att>
                 to 
-                <tei:att>from</tei:att>
+                <att>from</att>
                 and 
-                <tei:att>to</tei:att>
-                with identical values.</tei:change>
-            <tei:change change="d2e53" when="2018-02-06" who="#pers_TG">Added the 
-                <tei:att>xml:lang</tei:att>
-                attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+                <att>to</att>
+                with identical values.</change>
+            <change change="d2e53" when="2018-02-06" who="#pers_TG">Added the 
+                <att>xml:lang</att>
+                attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
             <change change="#d2e53" when="2018-02-06" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
         </revisionDesc>
     </teiHeader>
@@ -10904,42 +10904,36 @@
                         <biblScope change="#d2e53" from="145" to="180" unit="page" xml:lang="en">145-180</biblScope>
                     </monogr>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+               <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="callNumber" xml:lang="ar-Latn-x-ijmes">50 PF 12-9.1878 [3]</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -10953,48 +10947,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-03-15" xml:lang="en">15 Mar 1878</date>
+                            <date when="1878-03-15" xml:lang="en">15 March 1878, Friday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="6" to="6" unit="issue" xml:lang="en">6</biblScope>
-                        <biblScope from="181" to="216" unit="page">181-216</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="6" to="6" unit="issue"/>
+                        <biblScope from="181" to="212" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11008,48 +11001,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-04-01" xml:lang="en">1 Apr 1878</date>
+                            <date when="1878-04-01" xml:lang="en">1 April 1878, Monday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="7" to="7" unit="issue" xml:lang="en">7</biblScope>
-                        <biblScope change="#d2e53" from="217" to="252" unit="page" xml:lang="en">217-252</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="7" to="7" unit="issue"/>
+                        <biblScope from="213" to="244" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11063,49 +11055,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-04-15" xml:lang="en">15 Apr 1878</date>
+                            <date when="1878-04-15" xml:lang="en">15 April 1878, Monday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="8" to="8" unit="issue" xml:lang="en">8</biblScope>
-                        <biblScope change="#d2e53" from="253" to="288" unit="page" xml:lang="en">253-288</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="8" to="8" unit="issue"/>
+                        <biblScope from="245" to="276" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="callNumber" xml:lang="ar-Latn-x-ijmes">50 PF 12-9.1878 [3]</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11119,48 +11109,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-05-01" xml:lang="en">1 May 1878</date>
+                            <date when="1878-05-01" xml:lang="en">1 May 1878, Wednesday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="9" to="9" unit="issue" xml:lang="en">9</biblScope>
-                        <biblScope from="289" to="324" unit="page">289-324</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="9" to="9" unit="issue"/>
+                        <biblScope from="277" to="308" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11174,49 +11163,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-05-15" xml:lang="en">15 May 1878</date>
+                            <date when="1878-05-15" xml:lang="en">15 May 1878, Wednesday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="10" to="10" unit="issue" xml:lang="en">10</biblScope>
-                        <biblScope change="#d2e53" from="325" to="360" unit="page" xml:lang="en">325-360</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="10" to="10" unit="issue"/>
+                        <biblScope from="309" to="340" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="callNumber" xml:lang="ar-Latn-x-ijmes">50 PF 12-9.1878 [3]</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11230,48 +11217,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-06-01" xml:lang="en">1 Jun 1878</date>
+                            <date when="1878-06-01" xml:lang="en">1 June 1878, Saturday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="11" to="11" unit="issue" xml:lang="en">11</biblScope>
-                        <biblScope from="361" to="396" unit="page">361-396</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="11" to="11" unit="issue"/>
+                        <biblScope from="341" to="372" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11285,48 +11271,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-06-15" xml:lang="en">15 Jun 1878</date>
+                            <date when="1878-06-15" xml:lang="en">15 June 1878, Saturday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="12" to="12" unit="issue" xml:lang="en">12</biblScope>
-                        <biblScope change="#d2e53" from="397" to="432" unit="page" xml:lang="en">397-432</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="12" to="12" unit="issue"/>
+                        <biblScope from="373" to="404" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11340,48 +11325,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-07-01" xml:lang="en">1 Jul 1878</date>
+                            <date when="1878-07-01" xml:lang="en">1 July 1878, Monday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="13" to="13" unit="issue" xml:lang="en">13</biblScope>
-                        <biblScope change="#d2e53" from="433" to="468" unit="page" xml:lang="en">433-468</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="13" to="13" unit="issue"/>
+                        <biblScope from="405" to="436" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11395,48 +11379,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-07-15" xml:lang="en">15 Jul 1878</date>
+                            <date when="1878-07-15" xml:lang="en">15 July 1878, Monday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="14" to="14" unit="issue" xml:lang="en">14</biblScope>
-                        <biblScope change="#d2e53" from="469" to="504" unit="page" xml:lang="en">469-504</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="14" to="14" unit="issue"/>
+                        <biblScope from="437" to="468" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11450,48 +11433,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-08-01" xml:lang="en">1 Aug 1878</date>
+                            <date when="1878-08-01" xml:lang="en">1 August 1878, Thursday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="15" to="15" unit="issue" xml:lang="en">15</biblScope>
-                        <biblScope change="#d2e53" from="505" to="540" unit="page" xml:lang="en">505-540</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="15" to="15" unit="issue"/>
+                        <biblScope from="469" to="500" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11505,48 +11487,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-08-15" xml:lang="en">15 Aug 1878</date>
+                            <date when="1878-08-15" xml:lang="en">15 August 1878, Thursday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="16" to="16" unit="issue" xml:lang="en">16</biblScope>
-                        <biblScope change="#d2e53" from="541" to="576" unit="page" xml:lang="en">541-576</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="16" to="16" unit="issue"/>
+                        <biblScope from="501" to="532" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11560,48 +11541,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-09-01" xml:lang="en">1 Sep 1878</date>
+                            <date when="1878-09-01" xml:lang="en">1 September 1878, Sunday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="17" to="17" unit="issue" xml:lang="en">17</biblScope>
-                        <biblScope change="#d2e53" from="577" to="612" unit="page" xml:lang="en">577-612</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="17" to="17" unit="issue"/>
+                        <biblScope from="533" to="564" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11615,48 +11595,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-09-15" xml:lang="en">15 Sep 1878</date>
+                            <date when="1878-09-15" xml:lang="en">15 September 1878, Sunday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="18" to="18" unit="issue" xml:lang="en">18</biblScope>
-                        <biblScope change="#d2e53" from="613" to="648" unit="page" xml:lang="en">613-648</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="18" to="18" unit="issue"/>
+                        <biblScope from="565" to="596" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11670,48 +11649,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-10-01" xml:lang="en">1 Oct 1878</date>
+                            <date when="1878-10-01" xml:lang="en">1 October 1878, Tuesday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="19" to="19" unit="issue" xml:lang="en">19</biblScope>
-                        <biblScope change="#d2e53" from="649" to="684" unit="page" xml:lang="en">649-684</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="19" to="19" unit="issue"/>
+                        <biblScope from="597" to="628" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11725,48 +11703,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-10-15" xml:lang="en">15 Oct 1878</date>
+                            <date when="1878-10-15" xml:lang="en">15 October 1878, Tuesday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="20" to="20" unit="issue" xml:lang="en">20</biblScope>
-                        <biblScope change="#d2e53" from="685" to="720" unit="page" xml:lang="en">685-720</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="20" to="20" unit="issue"/>
+                        <biblScope from="629" to="660" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11780,48 +11757,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-11-01" xml:lang="en">1 Nov 1878</date>
+                            <date when="1878-11-01" xml:lang="en">1 November 1878, Friday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="21" to="21" unit="issue" xml:lang="en">21</biblScope>
-                        <biblScope change="#d2e53" from="721" to="756" unit="page" xml:lang="en">721-756</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="21" to="21" unit="issue"/>
+                        <biblScope from="661" to="692" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11835,48 +11811,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-11-15" xml:lang="en">15 Nov 1878</date>
+                            <date when="1878-11-15" xml:lang="en">15 November 1878, Friday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="22" to="22" unit="issue" xml:lang="en">22</biblScope>
-                        <biblScope change="#d2e53" from="757" to="792" unit="page" xml:lang="en">757-792</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="22" to="22" unit="issue"/>
+                        <biblScope from="693" to="724" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11890,48 +11865,47 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-12-01" xml:lang="en">1 Dec 1878</date>
+                            <date when="1878-12-01" xml:lang="en">1 December 1878, Sunday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="23" to="23" unit="issue" xml:lang="en">23</biblScope>
-                        <biblScope change="#d2e53" from="793" to="828" unit="page" xml:lang="en">793-828</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="23" to="23" unit="issue"/>
+                        <biblScope from="725" to="756" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="en">
+                    <monogr xml:lang="en">
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <!-- Gale edition -->
                         <idno type="oclc" xml:lang="en">987291181</idno>
-                        <!-- HathiTrust -->
                         <idno type="oclc" xml:lang="en">672061050</idno>
-                        <!-- Google, vol. 9 -->
                         <idno type="oclc" xml:lang="en">656797477</idno>
-                        <!-- Harrassowitz: Microfiche -->
                         <idno type="oclc" xml:lang="en">7565762</idno>
                         <idno type="oclc" xml:lang="en">792755530</idno>
                         <idno type="oclc" xml:lang="en">792755914</idno>
                         <idno type="oclc" xml:lang="en">1681102</idno>
                         <idno type="oclc" xml:lang="en">22757559</idno>
-                        <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749334</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">بطرس</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>بطرس</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Buṭrus</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Buṭrus</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <editor ref="viaf:21245607" xml:lang="en">
                             <persName xml:lang="ar">
-                                <forename change="#d2e53" xml:lang="ar">سليم</forename>
-                                <surname change="#d2e53" xml:lang="ar">البستاني</surname>
+                                <forename>سليم</forename>
+                                <surname>البستاني</surname>
                             </persName>
                             <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e53" xml:lang="ar-Latn-x-ijmes">Salīm</forename>
-                                <surname change="#d2e53" xml:lang="ar-Latn-x-ijmes">al-Bustānī</surname>
+                                <forename>Salīm</forename>
+                                <surname>al-Bustānī</surname>
                             </persName>
                         </editor>
                         <imprint xml:lang="en">
@@ -11945,12 +11919,16 @@
                                 <placeName xml:lang="en">Beirut</placeName>
                                 <placeName xml:lang="fr">Beyrouth</placeName>
                             </pubPlace>
-                            <date change="#d2e53" datingMethod="#cal_gregorian" type="official" when="1878-12-15" xml:lang="en">15 Dec 1878</date>
+                            <date when="1878-12-15" xml:lang="en">15 December 1878, Sunday</date>
                         </imprint>
-                        <biblScope change="#d2e53" from="9" to="9" unit="volume" xml:lang="en">9</biblScope>
-                        <biblScope change="#d2e53" from="24" to="24" unit="issue" xml:lang="en">24</biblScope>
-                        <biblScope change="#d2e53" from="829" to="864" unit="page" xml:lang="en">829-864</biblScope>
+                        <biblScope from="9" to="9" unit="volume"/>
+                        <biblScope from="24" to="24" unit="issue"/>
+                        <biblScope from="757" to="788" unit="page"/>
                     </monogr>
+                    <note n="p_step" type="param">monthly</note>
+                    <note n="p_days-of-the-month" type="param">01,15</note>
+                    <note>al-Jinān is part of Gale's Early Arabic Printed Books from the British Library 
+                        <ref target="http://link.galegroup.com/apps/pub/9GMI/EAPB?sid=gale_marc&amp;u=29002"/></note>
                 </biblStruct>
                 <biblStruct xml:lang="ar-Latn-x-ijmes">
                     <monogr change="#d2e53" xml:lang="ar-Latn-x-ijmes">
