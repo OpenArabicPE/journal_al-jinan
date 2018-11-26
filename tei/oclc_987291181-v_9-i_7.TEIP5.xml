@@ -78,7 +78,7 @@
                 </biblStruct>
          </tei:sourceDesc>
       </tei:fileDesc>
-      <tei:revisionDesc><change when="2018-11-26" who="#pers_TG" xml:id="d2e205" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change>
+      <tei:revisionDesc><tei:change when="2018-11-26" who="#pers_TG" change="d2e216" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change><change when="2018-11-26" who="#pers_TG" xml:id="d2e205" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change>
 <change when="2018-11-26" who="#pers_TG" xml:lang="en" change="#d2e205" xml:id="change_1.d2e186">Added structural mark-up to articles, including bylines.</change><tei:change when="2018-11-26" who="#pers_TG" change="d2e197 #d2e205" xml:lang="en" xml:id="change_2.d2e188">Added the <tei:att xml:lang="en" change="#d2e205" xml:id="att_1.d2e190">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change><change when="2018-11-26" who="#pers_TG" xml:id="d2e186" xml:lang="en">Added automated <tei:att xml:lang="en" change="#d2e205" xml:id="att_1.d2e195">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en" change="#d2e205" xml:id="gi_1.d2e198">tei:text</tei:gi> and had no existing <tei:att xml:lang="en" change="#d2e205" xml:id="att_1.d2e201">xml:id</tei:att> following the pattern "name()_generate-id()".</change>
          <tei:change when="2018-11-26" change="#d2e186 #d2e197" xml:id="change_1.d2e186" xml:lang="en">Created this file by automatic conversion of <tei:gi change="#d2e186 #d2e197" xml:id="gi_1.d2e188" xml:lang="en">biblStruct</tei:gi> from file:/BachUni/BachBibliothek/GitHub/OpenArabicPE/journal_al-jinan/metadata/al-jinan.TEIP5.xml.</tei:change>
       </tei:revisionDesc>
@@ -121,135 +121,135 @@
       <tei:pb ed="print" n="213" facs="#facs_213" change="#d2e186" xml:id="pb_1.d2e268"/>
       <tei:body change="#d2e186 #d2e197" xml:id="body_1.d2e270" xml:lang="ar">
          <tei:div change="#d2e186 #d2e197" type="item" xml:id="div_1.d2e272" xml:lang="ar">
-<head change="#d2e205" xml:id="head_1.d2e293">جملة سياسية</head>
-<byline change="#d2e205" xml:id="byline_1.d2e296">من قلم <persName change="#d2e205" xml:id="persName_7.d2e298">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_214" n="214" xml:id="pb_1.d2e274"/><tei:pb change="#d2e186" ed="print" facs="#facs_215" n="215" xml:id="pb_1.d2e276"/>
+<head change="#d2e205 #d2e216" xml:id="head_1.d2e293" xml:lang="ar">جملة سياسية</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_1.d2e296" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_7.d2e298" xml:lang="ar">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_214" n="214" xml:id="pb_1.d2e274"/><tei:pb change="#d2e186" ed="print" facs="#facs_215" n="215" xml:id="pb_1.d2e276"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e304">
-<head change="#d2e205" xml:id="head_2.d2e306">الثورة</head>
+<head change="#d2e205 #d2e216" xml:id="head_2.d2e306" xml:lang="ar">الثورة</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e310">
-<head change="#d2e205" xml:id="head_3.d2e312">حقوق الروس</head><tei:pb change="#d2e186" ed="print" facs="#facs_216" n="216" xml:id="pb_1.d2e278"/>
+<head change="#d2e205 #d2e216" xml:id="head_3.d2e312" xml:lang="ar">حقوق الروس</head><tei:pb change="#d2e186" ed="print" facs="#facs_216" n="216" xml:id="pb_1.d2e278"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e317">
-<head change="#d2e205" xml:id="head_4.d2e319">روسيا والمؤتمر</head><tei:pb change="#d2e186" ed="print" facs="#facs_217" n="217" xml:id="pb_1.d2e280"/>
+<head change="#d2e205 #d2e216" xml:id="head_4.d2e319" xml:lang="ar">روسيا والمؤتمر</head><tei:pb change="#d2e186" ed="print" facs="#facs_217" n="217" xml:id="pb_1.d2e280"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e324">
-<head change="#d2e205" xml:id="head_5.d2e326">انكلترت والمؤتمر</head>
+<head change="#d2e205 #d2e216" xml:id="head_5.d2e326" xml:lang="ar">انكلترت والمؤتمر</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e331">
-<head change="#d2e205" xml:id="head_6.d2e333">اليونان في البلغار</head><tei:pb change="#d2e186" ed="print" facs="#facs_218" n="218" xml:id="pb_1.d2e282"/>
+<head change="#d2e205 #d2e216" xml:id="head_6.d2e333" xml:lang="ar">اليونان في البلغار</head><tei:pb change="#d2e186" ed="print" facs="#facs_218" n="218" xml:id="pb_1.d2e282"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e338">
-<head change="#d2e205" xml:id="head_7.d2e340">رد وزير مالية انكلترا</head><tei:pb change="#d2e186" ed="print" facs="#facs_219" n="219" xml:id="pb_1.d2e285"/>
+<head change="#d2e205 #d2e216" xml:id="head_7.d2e340" xml:lang="ar">رد وزير مالية انكلترا</head><tei:pb change="#d2e186" ed="print" facs="#facs_219" n="219" xml:id="pb_1.d2e285"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e345">
-<head change="#d2e205" xml:id="head_8.d2e347">روسيا والدول</head>
-<byline change="#d2e205" xml:id="byline_2.d2e350">ان الجملة الاتية المترجمة عن جريدة <title level="j" change="#d2e205" xml:id="title_5.d2e352">التيمس</title> مهم جداً</byline><tei:pb change="#d2e186" ed="print" facs="#facs_220" n="220" xml:id="pb_1.d2e287"/>
+<head change="#d2e205 #d2e216" xml:id="head_8.d2e347" xml:lang="ar">روسيا والدول</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_2.d2e350" xml:lang="ar">ان الجملة الاتية المترجمة عن جريدة <title level="j" change="#d2e205 #d2e216" xml:id="title_5.d2e352" xml:lang="ar">التيمس</title> مهم جداً</byline><tei:pb change="#d2e186" ed="print" facs="#facs_220" n="220" xml:id="pb_1.d2e287"/>
 </tei:div><tei:pb change="#d2e186" ed="print" facs="#facs_221" n="221" xml:id="pb_1.d2e289"/>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e359">
-<head change="#d2e205" xml:id="head_9.d2e361">السلاف</head>
-<byline change="#d2e205" xml:id="byline_3.d2e364">من قلم <persName change="#d2e205" xml:id="persName_8.d2e366">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_222" n="222" xml:id="pb_1.d2e291"/><tei:pb change="#d2e186" ed="print" facs="#facs_223" n="223" xml:id="pb_1.d2e293"/>
+<head change="#d2e205 #d2e216" xml:id="head_9.d2e361" xml:lang="ar">السلاف</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_3.d2e364" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_8.d2e366" xml:lang="ar">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_222" n="222" xml:id="pb_1.d2e291"/><tei:pb change="#d2e186" ed="print" facs="#facs_223" n="223" xml:id="pb_1.d2e293"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e372">
-<head change="#d2e205" xml:id="head_10.d2e374">تطعيم حيوان من حيوان اخر</head>
+<head change="#d2e205 #d2e216" xml:id="head_10.d2e374" xml:lang="ar">تطعيم حيوان من حيوان اخر</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e379">
-<head change="#d2e205" xml:id="head_11.d2e381">فيل غريب</head><tei:pb change="#d2e186" ed="print" facs="#facs_224" n="224" xml:id="pb_1.d2e295"/>
+<head change="#d2e205 #d2e216" xml:id="head_11.d2e381" xml:lang="ar">فيل غريب</head><tei:pb change="#d2e186" ed="print" facs="#facs_224" n="224" xml:id="pb_1.d2e295"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e386">
-<head change="#d2e205" xml:id="head_12.d2e388">معدن زيبق في <placeName change="#d2e205" xml:id="placeName_5.d2e390">بورنيو</placeName></head>
+<head change="#d2e205 #d2e216" xml:id="head_12.d2e388" xml:lang="ar">معدن زيبق في <placeName change="#d2e205 #d2e216" xml:id="placeName_5.d2e390" xml:lang="ar">بورنيو</placeName></head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e394">
-<head change="#d2e205" xml:id="head_13.d2e396">توقيف حركت الجسد الطبيعية</head>
+<head change="#d2e205 #d2e216" xml:id="head_13.d2e396" xml:lang="ar">توقيف حركت الجسد الطبيعية</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e400">
-<head change="#d2e205" xml:id="head_14.d2e402">المادة وخصائصها</head>
-<byline change="#d2e205" xml:id="byline_4.d2e405">من قلم <persName change="#d2e205" xml:id="persName_9.d2e407">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_225" n="225" xml:id="pb_1.d2e298"/><tei:pb change="#d2e186" ed="print" facs="#facs_226" n="226" xml:id="pb_1.d2e300"/>
+<head change="#d2e205 #d2e216" xml:id="head_14.d2e402" xml:lang="ar">المادة وخصائصها</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_4.d2e405" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_9.d2e407" xml:lang="ar">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_225" n="225" xml:id="pb_1.d2e298"/><tei:pb change="#d2e186" ed="print" facs="#facs_226" n="226" xml:id="pb_1.d2e300"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e413">
-<head change="#d2e205" xml:id="head_15.d2e415">عمليتان يطلب حلها حلاً حسابياً</head>
-<byline change="#d2e205" xml:id="byline_5.d2e418">من قلم <persName change="#d2e205" xml:id="persName_10.d2e420">حنا افندي عصاعيصو</persName></byline>
+<head change="#d2e205 #d2e216" xml:id="head_15.d2e415" xml:lang="ar">عمليتان يطلب حلها حلاً حسابياً</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_5.d2e418" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_10.d2e420" xml:lang="ar">حنا افندي عصاعيصو</persName></byline>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e424">
-<head change="#d2e205" xml:id="head_16.d2e426">فائدة مراجعة التطعيم للجدري</head><tei:pb change="#d2e186" ed="print" facs="#facs_227" n="227" xml:id="pb_1.d2e302"/>
+<head change="#d2e205 #d2e216" xml:id="head_16.d2e426" xml:lang="ar">فائدة مراجعة التطعيم للجدري</head><tei:pb change="#d2e186" ed="print" facs="#facs_227" n="227" xml:id="pb_1.d2e302"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e432">
-<head change="#d2e205" xml:id="head_17.d2e434">نسبة الفرخ الى البيضة</head>
+<head change="#d2e205 #d2e216" xml:id="head_17.d2e434" xml:lang="ar">نسبة الفرخ الى البيضة</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e438">
-<head change="#d2e205" xml:id="head_18.d2e440">ذهب اصطناعي</head>
+<head change="#d2e205 #d2e216" xml:id="head_18.d2e440" xml:lang="ar">ذهب اصطناعي</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e444">
-<head change="#d2e205" xml:id="head_19.d2e446">طريقة سهلة لكسر قطع حديد كبيرة</head>
+<head change="#d2e205 #d2e216" xml:id="head_19.d2e446" xml:lang="ar">طريقة سهلة لكسر قطع حديد كبيرة</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e450">
-<head change="#d2e205" xml:id="head_20.d2e452">الباباوات</head><tei:pb change="#d2e186" ed="print" facs="#facs_228" n="228" xml:id="pb_1.d2e304"/>
+<head change="#d2e205 #d2e216" xml:id="head_20.d2e452" xml:lang="ar">الباباوات</head><tei:pb change="#d2e186" ed="print" facs="#facs_228" n="228" xml:id="pb_1.d2e304"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e457">
-<head change="#d2e205" xml:id="head_21.d2e459">تغيير الحنجرة</head>
+<head change="#d2e205 #d2e216" xml:id="head_21.d2e459" xml:lang="ar">تغيير الحنجرة</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e463">
-<head change="#d2e205" xml:id="head_22.d2e465">طريقة حفظ القنيصة من الفساد</head>
+<head change="#d2e205 #d2e216" xml:id="head_22.d2e465" xml:lang="ar">طريقة حفظ القنيصة من الفساد</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e470">
-<head change="#d2e205" xml:id="head_23.d2e472">تبليغ الاجساب للحرارة والكهربائية</head>
+<head change="#d2e205 #d2e216" xml:id="head_23.d2e472" xml:lang="ar">تبليغ الاجساب للحرارة والكهربائية</head>
 </tei:div><tei:pb change="#d2e186" ed="print" facs="#facs_229" n="229" xml:id="pb_1.d2e306"/>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e477">
-<head change="#d2e205" xml:id="head_24.d2e479">حجاج <placeName change="#d2e205" xml:id="placeName_6.d2e481">مكة</placeName> المشرفة سنة ١٨٧٧</head>
+<head change="#d2e205 #d2e216" xml:id="head_24.d2e479" xml:lang="ar">حجاج <placeName change="#d2e205 #d2e216" xml:id="placeName_6.d2e481" xml:lang="ar">مكة</placeName> المشرفة سنة ١٨٧٧</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e486">
-<head change="#d2e205" xml:id="head_25.d2e488">صفاء الماء</head>
+<head change="#d2e205 #d2e216" xml:id="head_25.d2e488" xml:lang="ar">صفاء الماء</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e492">
-<head change="#d2e205" xml:id="head_26.d2e494">تغيير السنونو عوايدها</head>
+<head change="#d2e205 #d2e216" xml:id="head_26.d2e494" xml:lang="ar">تغيير السنونو عوايدها</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e498">
-<head change="#d2e205" xml:id="head_27.d2e500">نباتات ذات اوراق مختلفة الالوان</head>
+<head change="#d2e205 #d2e216" xml:id="head_27.d2e500" xml:lang="ar">نباتات ذات اوراق مختلفة الالوان</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e505">
-<head change="#d2e205" xml:id="head_28.d2e507">الجراد في <placeName change="#d2e205" xml:id="placeName_7.d2e509">عين الشمس</placeName></head><tei:pb change="#d2e186" ed="print" facs="#facs_230" n="230" xml:id="pb_1.d2e308"/>
+<head change="#d2e205 #d2e216" xml:id="head_28.d2e507" xml:lang="ar">الجراد في <placeName change="#d2e205 #d2e216" xml:id="placeName_7.d2e509" xml:lang="ar">عين الشمس</placeName></head><tei:pb change="#d2e186" ed="print" facs="#facs_230" n="230" xml:id="pb_1.d2e308"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e514">
-<head change="#d2e205" xml:id="head_29.d2e516">استعمال الهليون عوض البن</head>
+<head change="#d2e205 #d2e216" xml:id="head_29.d2e516" xml:lang="ar">استعمال الهليون عوض البن</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e520">
-<head change="#d2e205" xml:id="head_30.d2e522">التليفون</head>
+<head change="#d2e205 #d2e216" xml:id="head_30.d2e522" xml:lang="ar">التليفون</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e526">
-<head change="#d2e205" xml:id="head_31.d2e528">تكاثر الاشجار</head>
+<head change="#d2e205 #d2e216" xml:id="head_31.d2e528" xml:lang="ar">تكاثر الاشجار</head>
 </tei:div><tei:pb change="#d2e186" ed="print" facs="#facs_231" n="231" xml:id="pb_1.d2e311"/>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e533">
-<head change="#d2e205" xml:id="head_32.d2e535">تعطيم الشجر والنبات</head><tei:pb change="#d2e186" ed="print" facs="#facs_232" n="232" xml:id="pb_1.d2e313"/><tei:pb change="#d2e186" ed="print" facs="#facs_233" n="233" xml:id="pb_1.d2e315"/>
+<head change="#d2e205 #d2e216" xml:id="head_32.d2e535" xml:lang="ar">تعطيم الشجر والنبات</head><tei:pb change="#d2e186" ed="print" facs="#facs_232" n="232" xml:id="pb_1.d2e313"/><tei:pb change="#d2e186" ed="print" facs="#facs_233" n="233" xml:id="pb_1.d2e315"/>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e542">
-<head change="#d2e205" xml:id="head_33.d2e544">التعطيم</head>
+<head change="#d2e205 #d2e216" xml:id="head_33.d2e544" xml:lang="ar">التعطيم</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e548">
-<head change="#d2e205" xml:id="head_34.d2e550">طريقة التعطيم</head>
+<head change="#d2e205 #d2e216" xml:id="head_34.d2e550" xml:lang="ar">طريقة التعطيم</head>
 </tei:div><tei:pb change="#d2e186" ed="print" facs="#facs_234" n="234" xml:id="pb_1.d2e317"/>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e555">
-<head change="#d2e205" xml:id="head_35.d2e557">انواع التعطيم</head>
+<head change="#d2e205 #d2e216" xml:id="head_35.d2e557" xml:lang="ar">انواع التعطيم</head>
 </tei:div>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e561">
-<head change="#d2e205" xml:id="head_36.d2e563">تاريخ <placeName change="#d2e205" xml:id="placeName_8.d2e565">فرنسا</placeName></head><tei:pb change="#d2e186" ed="print" facs="#facs_235" n="235" xml:id="pb_1.d2e319"/><tei:pb change="#d2e186" ed="print" facs="#facs_236" n="236" xml:id="pb_1.d2e321"/><tei:pb change="#d2e186" ed="print" facs="#facs_237" n="237" xml:id="pb_1.d2e324"/>
+<head change="#d2e205 #d2e216" xml:id="head_36.d2e563" xml:lang="ar">تاريخ <placeName change="#d2e205 #d2e216" xml:id="placeName_8.d2e565" xml:lang="ar">فرنسا</placeName></head><tei:pb change="#d2e186" ed="print" facs="#facs_235" n="235" xml:id="pb_1.d2e319"/><tei:pb change="#d2e186" ed="print" facs="#facs_236" n="236" xml:id="pb_1.d2e321"/><tei:pb change="#d2e186" ed="print" facs="#facs_237" n="237" xml:id="pb_1.d2e324"/>
 </tei:div><tei:pb change="#d2e186" ed="print" facs="#facs_238" n="238" xml:id="pb_1.d2e326"/>
 <tei:div change="#d2e186 #d2e197 #d2e205" type="item" xml:lang="ar" xml:id="div_1.d2e573">
-<head change="#d2e205" xml:id="head_37.d2e575">سلمى</head>
-<byline change="#d2e205" xml:id="byline_6.d2e578">من قلم <persName change="#d2e205" xml:id="persName_11.d2e580">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_239" n="239" xml:id="pb_1.d2e328"/><tei:pb change="#d2e186" ed="print" facs="#facs_240" n="240" xml:id="pb_1.d2e330"/><tei:pb change="#d2e186" ed="print" facs="#facs_241" n="241" xml:id="pb_1.d2e332"/><tei:pb change="#d2e186" ed="print" facs="#facs_242" n="242" xml:id="pb_1.d2e334"/><tei:pb change="#d2e186" ed="print" facs="#facs_243" n="243" xml:id="pb_1.d2e337"/><tei:pb change="#d2e186" ed="print" facs="#facs_244" n="244" xml:id="pb_1.d2e339"/>
+<head change="#d2e205 #d2e216" xml:id="head_37.d2e575" xml:lang="ar">سلمى</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_6.d2e578" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_11.d2e580" xml:lang="ar">سليم افندي البستاني</persName></byline><tei:pb change="#d2e186" ed="print" facs="#facs_239" n="239" xml:id="pb_1.d2e328"/><tei:pb change="#d2e186" ed="print" facs="#facs_240" n="240" xml:id="pb_1.d2e330"/><tei:pb change="#d2e186" ed="print" facs="#facs_241" n="241" xml:id="pb_1.d2e332"/><tei:pb change="#d2e186" ed="print" facs="#facs_242" n="242" xml:id="pb_1.d2e334"/><tei:pb change="#d2e186" ed="print" facs="#facs_243" n="243" xml:id="pb_1.d2e337"/><tei:pb change="#d2e186" ed="print" facs="#facs_244" n="244" xml:id="pb_1.d2e339"/>
 </tei:div>
-<div type="item" change="#d2e205" xml:id="div_1.d2e591">
-<head change="#d2e205" xml:id="head_38.d2e593">ملح</head>
-<byline change="#d2e205" xml:id="byline_7.d2e596">من قلم <persName change="#d2e205" xml:id="persName_12.d2e598">الخواجة سليم نصور جريديني</persName></byline>
+<div type="item" change="#d2e205 #d2e216" xml:id="div_1.d2e591" xml:lang="ar">
+<head change="#d2e205 #d2e216" xml:id="head_38.d2e593" xml:lang="ar">ملح</head>
+<byline change="#d2e205 #d2e216" xml:id="byline_7.d2e596" xml:lang="ar">من قلم <persName change="#d2e205 #d2e216" xml:id="persName_12.d2e598" xml:lang="ar">الخواجة سليم نصور جريديني</persName></byline>
 </div><pb ed="print" change="#d2e205" xml:id="pb_1.d2e601"/>
-<div type="item" change="#d2e205" xml:id="div_2.d2e603">
-<head change="#d2e205" xml:id="head_39.d2e605"><supplied resp="#pers_TG" change="#d2e205" xml:id="supplied_1.d2e606">اعلان</supplied></head>
-<byline change="#d2e205" xml:id="byline_8.d2e609"><persName change="#d2e205" xml:id="persName_13.d2e610">سليم عنحوري</persName></byline>
+<div type="item" change="#d2e205 #d2e216" xml:id="div_2.d2e603" xml:lang="ar">
+<head change="#d2e205 #d2e216" xml:id="head_39.d2e605" xml:lang="ar"><supplied resp="#pers_TG" change="#d2e205 #d2e216" xml:id="supplied_1.d2e606" xml:lang="ar">اعلان</supplied></head>
+<byline change="#d2e205 #d2e216" xml:id="byline_8.d2e609" xml:lang="ar"><persName change="#d2e205 #d2e216" xml:id="persName_13.d2e610" xml:lang="ar">سليم عنحوري</persName></byline>
 </div><pb ed="print" change="#d2e205" xml:id="pb_2.d2e613"/>
-<div type="item" change="#d2e205" xml:id="div_3.d2e615">
-<head change="#d2e205" xml:id="head_40.d2e617">اعلان</head>
+<div type="item" change="#d2e205 #d2e216" xml:id="div_3.d2e615" xml:lang="ar">
+<head change="#d2e205 #d2e216" xml:id="head_40.d2e617" xml:lang="ar">اعلان</head>
 </div>
-<div type="item" change="#d2e205" xml:id="div_4.d2e621">
-<head change="#d2e205" xml:id="head_41.d2e623">فهرس</head>
+<div type="item" change="#d2e205 #d2e216" xml:id="div_4.d2e621" xml:lang="ar">
+<head change="#d2e205 #d2e216" xml:id="head_41.d2e623" xml:lang="ar">فهرس</head>
 </div>
       </tei:body>
    </tei:text>
