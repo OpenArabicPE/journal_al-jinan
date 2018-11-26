@@ -4,113 +4,943 @@
                 xmlns="http://www.loc.gov/mods/v3"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
-        
-          ولاية سورية
-        
-        
-      
-        
-          فرنسا
-          خطاب الامبراطور
-      
-        
-          مصرو
-          دار الخلافة
-        
-      
-        
-          خليج سويس
-        
-        من قلم 
-          
-            الخواجا
-            موسى
-            يوحنا
-            فريج
-        
-        
-      
-        
-          المجمع المسكونيفي 
-          رومية
-        
-        
-      
-        بلاغة الافرنج عند الافرنج
-        وردت الينا من 
-          
-            جناب
-            الياس
-            افندي
-            حبالينالخطاب الاتي
-        
-        
-      
-        
-          اسبانيا
-        
-        من قلم 
-          
-            سليم
-            افندي
-            البستاني
-        
-        
-        
-      
-        اوجه المشابهة بين الحيوان والنبات
-        من قلم 
-          
-            الدكتور
-            ڤان
-            ديك
-        
-        
-      
-        كشف قارج امريكا
-        
-        
-        
-        
-      
-        الشرق
-        
-        
-      
-        عساكر الدنيا
-        
-        
-      
-        رميةٌ من غير رامٍ
-        
-        
-        
-      
-        التهذيب
-        من قلم 
-          
-            سليم
-            افندي
-            البستاني
-        
-        
-      
-        الهيام في جنان الشام
-        من قلم 
-          
-            سليم
-            افندي
-            البستاني
-        
-        
-        
-        
-        
-        
-        
-        
-        
-      <mods ID="oclc_987291181-v_1-i_1-div_2.d2e493-mods">
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e303-mods">
+      <titleInfo>
+         <title lang="ar">ولاية سورية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>1</start>
+               <end>2</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e303</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e311-mods">
+      <titleInfo>
+         <title lang="ar">فرنسا خطاب الامبراطور</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>2</start>
+               <end>2</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e311</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e321-mods">
+      <titleInfo>
+         <title lang="ar">مصر و دار الخلافة</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>2</start>
+               <end>3</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e321</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e332-mods">
+      <titleInfo>
+         <title lang="ar">خليج سويس</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">فريج</namePart>
+         <namePart type="given" xml:lang="ar">موسى</namePart>
+         <namePart type="given" xml:lang="ar">يوحنا</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>3</start>
+               <end>4</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e332</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e355-mods">
+      <titleInfo>
+         <title lang="ar">المجمع المسكوني في رومية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>4</start>
+               <end>6</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e355</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e368-mods">
+      <titleInfo>
+         <title lang="ar">بلاغة الافرنج عند الافرنج</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">حبالين</namePart>
+         <namePart type="given" xml:lang="ar">الياس</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>6</start>
+               <end>8</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e368</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e392-mods">
+      <titleInfo>
+         <title lang="ar">اسبانيا</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/21245607">
+         <namePart type="family" xml:lang="">البستاني</namePart>
+         <namePart type="given" xml:lang="">سليم</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>8</start>
+               <end>10</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e392</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e406-mods">
+      <titleInfo>
+         <title lang="ar">اوجه المشابهة بين الحيوان والنبات</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/26912968">
+         <namePart type="family" xml:lang="ar">ديك</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>10</start>
+               <end>11</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e406</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e425-mods">
+      <titleInfo>
+         <title lang="ar">كشف قارج امريكا</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>11</start>
+               <end>15</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e425</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e435-mods">
+      <titleInfo>
+         <title lang="ar">الشرق</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>15</start>
+               <end>17</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e435</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e443-mods">
+      <titleInfo>
+         <title lang="ar">عساكر الدنيا</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>17</start>
+               <end>19</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e443</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e452-mods">
+      <titleInfo>
+         <title lang="ar">رميةٌ من غير رامٍ</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>19</start>
+               <end>22</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e452</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e461-mods">
+      <titleInfo>
+         <title lang="ar">التهذيب</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/21245607">
+         <namePart type="family" xml:lang="">البستاني</namePart>
+         <namePart type="given" xml:lang="">سليم</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>22</start>
+               <end>23</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e461</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e473-mods">
+      <titleInfo>
+         <title lang="ar">الهيام في جنان الشام</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/21245607">
+         <namePart type="family" xml:lang="">البستاني</namePart>
+         <namePart type="given" xml:lang="">سليم</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الجنان</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/79119650">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">بطرس</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/21245607">
+            <namePart type="family" xml:lang="ar">البستاني</namePart>
+            <namePart type="given" xml:lang="ar">سليم</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2018</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة المعارف</publisher>
+            <dateIssued encoding="w3cdtf">1870-01-01</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>23</start>
+               <end>31</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <location>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e473</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_987291181-v_1-i_1-div_2.d2e493-mods">
       <titleInfo>
          <title lang="ar">ملح</title>
       </titleInfo>
@@ -166,7 +996,7 @@
       </relatedItem>
       <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2018-11-03" usage="primary display">https://rawgit.com/openarabicpe/journal_al-jinan/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e493</url>
+         <url dateLastAccessed="2018-11-03" usage="primary display">https://github.com/openarabicpe/journal_al-jinan/blob/master/tei/oclc_987291181-v_1-i_1.TEIP5.xml#div_2.d2e493</url>
       </location>
       <language>
          <languageTerm type="code"
