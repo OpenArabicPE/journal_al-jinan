@@ -98,6 +98,8 @@
          </tei:sourceDesc>
       </tei:fileDesc>
       <tei:revisionDesc>
+            <change xml:lang="en" who="#pers_TG" when="2018-12-05">Added structural mark-up on the
+                basis of the facsimiles.</change>
          <tei:change when="2018-11-03">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/journal_al-jinan/metadata/al-jinan.TEIP5.xml.</tei:change>
       </tei:revisionDesc>
    </tei:teiHeader>
@@ -139,38 +141,80 @@
       <tei:pb ed="print" n="193" facs="#facs_193"/>
       <tei:body>
          <tei:div type="item">
-            <tei:pb ed="print" n="194" facs="#facs_194"/>
-            <tei:pb ed="print" n="195" facs="#facs_195"/>
-            <tei:pb ed="print" n="196" facs="#facs_196"/>
-            <tei:pb ed="print" n="197" facs="#facs_197"/>
-            <tei:pb ed="print" n="198" facs="#facs_198"/>
-            <tei:pb ed="print" n="199" facs="#facs_199"/>
-            <tei:pb ed="print" n="200" facs="#facs_200"/>
-            <tei:pb ed="print" n="201" facs="#facs_201"/>
-            <tei:pb ed="print" n="202" facs="#facs_202"/>
-            <tei:pb ed="print" n="203" facs="#facs_203"/>
-            <tei:pb ed="print" n="204" facs="#facs_204"/>
-            <tei:pb ed="print" n="205" facs="#facs_205"/>
-            <tei:pb ed="print" n="206" facs="#facs_206"/>
-            <tei:pb ed="print" n="207" facs="#facs_207"/>
-            <tei:pb ed="print" n="208" facs="#facs_208"/>
-            <tei:pb ed="print" n="209" facs="#facs_209"/>
-            <tei:pb ed="print" n="210" facs="#facs_210"/>
-            <tei:pb ed="print" n="211" facs="#facs_211"/>
-            <tei:pb ed="print" n="212" facs="#facs_212"/>
-            <tei:pb ed="print" n="213" facs="#facs_213"/>
-            <tei:pb ed="print" n="214" facs="#facs_214"/>
-            <tei:pb ed="print" n="215" facs="#facs_215"/>
-            <tei:pb ed="print" n="216" facs="#facs_216"/>
-            <tei:pb ed="print" n="217" facs="#facs_217"/>
-            <tei:pb ed="print" n="218" facs="#facs_218"/>
-            <tei:pb ed="print" n="219" facs="#facs_219"/>
-            <tei:pb ed="print" n="220" facs="#facs_220"/>
-            <tei:pb ed="print" n="221" facs="#facs_221"/>
-            <tei:pb ed="print" n="222" facs="#facs_222"/>
-            <tei:pb ed="print" n="223" facs="#facs_223"/>
-            <tei:pb ed="print" n="224" facs="#facs_224"/>
-         </tei:div>
+                <head>اعلان</head>
+            </tei:div>
+            <tei:div type="item">
+                <head>اعلان</head>
+            </tei:div>
+            <tei:div type="item"><head>جملة سياسية</head><byline>من قلم <persName>سليم افندي
+                        البستاني</persName></byline><tei:pb ed="print" n="194" facs="#facs_194"
+                /></tei:div>
+            <tei:div type="item"><head>تلغرافات</head>
+                <tei:pb ed="print" n="195" facs="#facs_195"/>
+                <tei:pb ed="print" n="196" facs="#facs_196"/>
+                <tei:pb ed="print" n="197" facs="#facs_197"/></tei:div>
+            <tei:div type="section">
+                <head>اخبار سياسية مختلفة    </head>
+                <div type="item"><head>رسالة <persName>البرنس نابوليون</persName></head><tei:pb
+                        ed="print" n="198" facs="#facs_198"/></div>
+                <div type="item">
+                    <head><placeName>الروم ايلي</placeName> الشرقية</head>
+                </div>
+                <div type="item"><head>المالية والتجارة</head><tei:pb ed="print" n="199"
+                        facs="#facs_199"/></div>
+            </tei:div>
+            <tei:div type="section"><head>اخبار محلية</head><tei:pb ed="print" n="200"
+                    facs="#facs_200"/><tei:pb ed="print" n="201" facs="#facs_201"/></tei:div>
+            <tei:div type="item">
+                <head>اعلان</head>
+            </tei:div>
+            <tei:div type="item">
+                <head>اعلان</head>
+            </tei:div>
+            <tei:div type="section">
+                <head>رسالات</head>
+                <div type="item"><head>طرابلس في ٩ الجاري (بحروفها)</head><tei:pb ed="print" n="202"
+                        facs="#facs_202"/></div>
+                <div type="item">
+                    <head>الشام في ١٥ الجاري</head>
+                </div>
+                <div type="item"><head>الشام في ١٨ الجاري</head><tei:pb ed="print" n="203"
+                        facs="#facs_203"/>
+                </div>
+            </tei:div>
+            <tei:div type="item"><head>تتمة قانون البلغار الاساسي</head><tei:pb ed="print" n="204"
+                    facs="#facs_204"/><tei:pb ed="print" n="205" facs="#facs_205"/><tei:pb
+                    ed="print" n="206" facs="#facs_206"/>
+                <tei:pb ed="print" n="207" facs="#facs_207"/></tei:div>
+            <tei:div type="item"><head>نبذة</head>
+                <tei:pb ed="print" n="208" facs="#facs_208"/>
+                <tei:pb ed="print" n="209" facs="#facs_209"/>
+            </tei:div>
+            <tei:div type="item"><head>سولون الحكيم</head><tei:pb ed="print" n="210"
+                    facs="#facs_210"/>
+                <tei:pb ed="print" n="211" facs="#facs_211"/>
+                <tei:pb ed="print" n="212" facs="#facs_212"/>
+                <tei:pb ed="print" n="213" facs="#facs_213"/>
+            </tei:div>
+            <tei:div type="item"><head>تاريخ فرنسا</head><tei:pb ed="print" n="214" facs="#facs_214"/>
+                <tei:pb ed="print" n="215" facs="#facs_215"/>
+                <tei:pb ed="print" n="216" facs="#facs_216"/>
+                <tei:pb ed="print" n="217" facs="#facs_217"/>
+                <tei:pb ed="print" n="218" facs="#facs_218"/>
+            </tei:div>
+            <tei:div type="item"><head>قصر الصخور السوداء</head><bibl>من قلم
+                            <respStmt><persName>سليم افندي البستاني</persName>
+                        <resp>ترجمة</resp></respStmt></bibl><tei:pb ed="print" n="219"
+                    facs="#facs_219"/>
+                <tei:pb ed="print" n="220" facs="#facs_220"/>
+                <tei:pb ed="print" n="221" facs="#facs_221"/>
+                <tei:pb ed="print" n="222" facs="#facs_222"/>
+                <tei:pb ed="print" n="223" facs="#facs_223"/>
+                <tei:pb ed="print" n="224" facs="#facs_224"/></tei:div>
+            <tei:div type="item">
+                <head>ملح</head>
+                <byline>من قلم <persName>اسعد افندي نصار</persName></byline>
+            </tei:div>
       </tei:body>
    </tei:text>
 </tei:TEI>
