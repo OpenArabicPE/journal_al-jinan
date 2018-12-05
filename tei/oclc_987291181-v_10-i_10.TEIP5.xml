@@ -142,39 +142,47 @@
    <tei:text xml:lang="ar">
       <tei:pb ed="print" n="289" facs="#facs_289"/>
       <tei:body>
-         <tei:div type="item">
-            <tei:pb ed="print" n="290" facs="#facs_290"/>
-            <tei:pb ed="print" n="291" facs="#facs_291"/>
-            <tei:pb ed="print" n="292" facs="#facs_292"/>
-            <tei:pb ed="print" n="293" facs="#facs_293"/>
-            <tei:pb ed="print" n="294" facs="#facs_294"/>
-            <tei:pb ed="print" n="295" facs="#facs_295"/>
-            <tei:pb ed="print" n="296" facs="#facs_296"/>
-            <tei:pb ed="print" n="297" facs="#facs_297"/>
-            <tei:pb ed="print" n="298" facs="#facs_298"/>
-            <tei:pb ed="print" n="299" facs="#facs_299"/>
-            <tei:pb ed="print" n="300" facs="#facs_300"/>
-            <tei:pb ed="print" n="301" facs="#facs_301"/>
-            <tei:pb ed="print" n="302" facs="#facs_302"/>
-            <tei:pb ed="print" n="303" facs="#facs_303"/>
-            <tei:pb ed="print" n="304" facs="#facs_304"/>
-            <tei:pb ed="print" n="305" facs="#facs_305"/>
-            <tei:pb ed="print" n="306" facs="#facs_306"/>
-            <tei:pb ed="print" n="307" facs="#facs_307"/>
-            <tei:pb ed="print" n="308" facs="#facs_308"/>
-            <tei:pb ed="print" n="309" facs="#facs_309"/>
-            <tei:pb ed="print" n="310" facs="#facs_310"/>
-            <tei:pb ed="print" n="311" facs="#facs_311"/>
-            <tei:pb ed="print" n="312" facs="#facs_312"/>
-            <tei:pb ed="print" n="313" facs="#facs_313"/>
-            <tei:pb ed="print" n="314" facs="#facs_314"/>
-            <tei:pb ed="print" n="315" facs="#facs_315"/>
-            <tei:pb ed="print" n="316" facs="#facs_316"/>
-            <tei:pb ed="print" n="317" facs="#facs_317"/>
-            <tei:pb ed="print" n="318" facs="#facs_318"/>
-            <tei:pb ed="print" n="319" facs="#facs_319"/>
-            <tei:pb ed="print" n="320" facs="#facs_320"/>
-         </tei:div>
+         <tei:div type="item"><head>جملة سياسية</head><byline>من قلم <persName>سليم افندي
+                        البستاني</persName></byline>
+                <tei:pb ed="print" n="290" facs="#facs_290"/>
+                <tei:pb ed="print" n="291" facs="#facs_291"/>
+            </tei:div>
+            <tei:div type="item">
+                <head>رسالات برقية</head>
+            </tei:div>
+            <tei:div type="item"><head>عجائب اهل الثورة في روسيا</head><tei:pb ed="print" n="292"
+                    facs="#facs_292"/>
+                <tei:pb ed="print" n="293" facs="#facs_293"/>
+                <tei:pb ed="print" n="294" facs="#facs_294"/>
+                <tei:pb ed="print" n="295" facs="#facs_295"/>
+                <tei:pb ed="print" n="296" facs="#facs_296"/></tei:div>
+            <tei:div type="item"><head>مقتلة في بورما</head>
+                <tei:pb ed="print" n="297" facs="#facs_297"/></tei:div>
+            <tei:div type="item"><head>اختراع جديد عجيب</head>
+                <tei:pb ed="print" n="298" facs="#facs_298"/>
+                <tei:pb ed="print" n="299" facs="#facs_299"/>
+                <tei:pb ed="print" n="300" facs="#facs_300"/>
+                <tei:pb ed="print" n="301" facs="#facs_301"/>
+                <tei:pb ed="print" n="302" facs="#facs_302"/>
+                <tei:pb ed="print" n="303" facs="#facs_303"/>
+                <tei:pb ed="print" n="304" facs="#facs_304"/>
+                <tei:pb ed="print" n="305" facs="#facs_305"/>
+                <tei:pb ed="print" n="306" facs="#facs_306"/>
+                <tei:pb ed="print" n="307" facs="#facs_307"/>
+                <tei:pb ed="print" n="308" facs="#facs_308"/>
+                <tei:pb ed="print" n="309" facs="#facs_309"/>
+                <tei:pb ed="print" n="310" facs="#facs_310"/>
+                <tei:pb ed="print" n="311" facs="#facs_311"/>
+                <tei:pb ed="print" n="312" facs="#facs_312"/>
+                <tei:pb ed="print" n="313" facs="#facs_313"/>
+                <tei:pb ed="print" n="314" facs="#facs_314"/>
+                <tei:pb ed="print" n="315" facs="#facs_315"/>
+                <tei:pb ed="print" n="316" facs="#facs_316"/>
+                <tei:pb ed="print" n="317" facs="#facs_317"/>
+                <tei:pb ed="print" n="318" facs="#facs_318"/>
+                <tei:pb ed="print" n="319" facs="#facs_319"/>
+                <tei:pb ed="print" n="320" facs="#facs_320"/>
+            </tei:div>
       </tei:body>
    </tei:text>
 </tei:TEI>
