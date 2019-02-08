@@ -29,17 +29,17 @@
                         <title level="j" xml:lang="ar">الجنان</title>
                         <title level="j" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
                         <!-- Gale edition -->
-                        <idno type="oclc" xml:lang="en">987291181</idno>
+                        <idno type="OCLC" xml:lang="en">987291181</idno>
                         <!-- HathiTrust -->
-                        <idno type="oclc" xml:lang="en">672061050</idno>
+                        <idno type="OCLC" xml:lang="en">672061050</idno>
                         <!-- Google, vol. 9 -->
-                        <idno type="oclc" xml:lang="en">656797477</idno>
+                        <idno type="OCLC" xml:lang="en">656797477</idno>
                         <!-- Harrassowitz: Microfiche -->
-                        <idno type="oclc" xml:lang="en">7565762</idno>
-                        <idno type="oclc" xml:lang="en">792755530</idno>
-                        <idno type="oclc" xml:lang="en">792755914</idno>
-                        <idno type="oclc" xml:lang="en">1681102</idno>
-                        <idno type="oclc" xml:lang="en">22757559</idno>
+                        <idno type="OCLC" xml:lang="en">7565762</idno>
+                        <idno type="OCLC" xml:lang="en">792755530</idno>
+                        <idno type="OCLC" xml:lang="en">792755914</idno>
+                        <idno type="OCLC" xml:lang="en">1681102</idno>
+                        <idno type="OCLC" xml:lang="en">22757559</idno>
                         <idno change="#d2e53" type="url" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007749359</idno>
                         <editor ref="viaf:79119650" xml:lang="en">
                             <persName xml:lang="ar">

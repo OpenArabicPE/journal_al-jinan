@@ -30,14 +30,14 @@
                     <monogr change="#d2e186" xml:id="monogr_1.d2e57" xml:lang="en">
                         <title change="#d2e186" level="j" xml:id="title_3.d2e59" xml:lang="ar">الجنان</title>
                         <title change="#d2e186" level="j" xml:id="title_4.d2e62" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_2.d2e65" xml:lang="en">987291181</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_3.d2e68" xml:lang="en">672061050</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_4.d2e71" xml:lang="en">656797477</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_5.d2e75" xml:lang="en">7565762</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_6.d2e78" xml:lang="en">792755530</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_7.d2e81" xml:lang="en">792755914</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_8.d2e84" xml:lang="en">1681102</idno>
-                        <idno change="#d2e186" type="oclc" xml:id="idno_9.d2e87" xml:lang="en">22757559</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_2.d2e65" xml:lang="en">987291181</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_3.d2e68" xml:lang="en">672061050</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_4.d2e71" xml:lang="en">656797477</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_5.d2e75" xml:lang="en">7565762</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_6.d2e78" xml:lang="en">792755530</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_7.d2e81" xml:lang="en">792755914</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_8.d2e84" xml:lang="en">1681102</idno>
+                        <idno change="#d2e186" type="OCLC" xml:id="idno_9.d2e87" xml:lang="en">22757559</idno>
                         <editor change="#d2e186" ref="viaf:79119650" xml:id="editor_1.d2e90" xml:lang="en">
                             <persName change="#d2e186 #d4e221" ref="viaf:79119650" xml:id="persName_3.d2e92" xml:lang="ar">
                                 <forename change="#d2e186 #d2e197" xml:id="forename_1.d2e94" xml:lang="ar">بطرس</forename>

@@ -31,17 +31,17 @@
             <title change="#d2e193" level="j" xml:id="title_3.d2e59" xml:lang="ar">الجنان</title>
             <title change="#d2e193" level="j" xml:id="title_4.d2e62" xml:lang="ar-Latn-x-ijmes">al-Jinān</title>
             <!-- Gale edition -->
-            <idno change="#d2e193" type="oclc" xml:id="idno_2.d2e67" xml:lang="en">987291181</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_2.d2e67" xml:lang="en">987291181</idno>
             <!-- HathiTrust -->
-            <idno change="#d2e193" type="oclc" xml:id="idno_3.d2e73" xml:lang="en">672061050</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_3.d2e73" xml:lang="en">672061050</idno>
             <!-- Google, vol. 9 -->
-            <idno change="#d2e193" type="oclc" xml:id="idno_4.d2e78" xml:lang="en">656797477</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_4.d2e78" xml:lang="en">656797477</idno>
             <!-- Harrassowitz: Microfiche -->
-            <idno change="#d2e193" type="oclc" xml:id="idno_5.d2e83" xml:lang="en">7565762</idno>
-            <idno change="#d2e193" type="oclc" xml:id="idno_6.d2e86" xml:lang="en">792755530</idno>
-            <idno change="#d2e193" type="oclc" xml:id="idno_7.d2e90" xml:lang="en">792755914</idno>
-            <idno change="#d2e193" type="oclc" xml:id="idno_8.d2e93" xml:lang="en">1681102</idno>
-            <idno change="#d2e193" type="oclc" xml:id="idno_9.d2e96" xml:lang="en">22757559</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_5.d2e83" xml:lang="en">7565762</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_6.d2e86" xml:lang="en">792755530</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_7.d2e90" xml:lang="en">792755914</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_8.d2e93" xml:lang="en">1681102</idno>
+            <idno change="#d2e193" type="OCLC" xml:id="idno_9.d2e96" xml:lang="en">22757559</idno>
             <idno change="#d2e53 #d2e193" type="url" xml:id="idno_10.d2e99" xml:lang="ar-Latn-x-ijmes">http://hdl.handle.net/2027/njp.32101007751447</idno>
             <editor change="#d2e193" ref="viaf:79119650" xml:id="editor_1.d2e102" xml:lang="en">
               <persName change="#d2e193 #d4e209" ref="viaf:79119650" xml:id="persName_3.d2e104" xml:lang="ar">
