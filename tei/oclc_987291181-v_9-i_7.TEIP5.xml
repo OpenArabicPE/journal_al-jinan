@@ -3,7 +3,7 @@
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
-<tei:TEI change="#d2e197" next="oclc_987291181-v_9-i_8.TEIP5.xml" prev="oclc_987291181-v_9-i_6.TEIP5.xml" xml:id="oclc_987291181-v_9-i_7" xml:lang="" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:TEI change="#d2e197" next="oclc_987291181-v_9-i_8.TEIP5.xml" prev="oclc_987291181-v_9-i_6.TEIP5.xml" xml:id="oclc_987291181-v_9-i_7" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <tei:teiHeader change="#d2e186" xml:id="teiHeader_1.d2e7" xml:lang="en">
         <tei:fileDesc change="#d2e186 #d2e197" xml:id="fileDesc_1.d2e9" xml:lang="en">
             <tei:titleStmt change="#d2e186 #d2e197" xml:id="titleStmt_1.d2e11" xml:lang="en">
